@@ -16,6 +16,4 @@ I am a B.Tech Civil Engineering student at Heritage Institute of Technology, Kol
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SuvrojeetSamanta&icon=3&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
